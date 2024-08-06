@@ -1,4 +1,4 @@
-# ONEfarm
+# Farm
 ONE Farm is an e-commerce website that allows users to buy and sell animals online. The platform connects buyers and sellers from all over the world, providing a convenient way to find and purchase the perfect animal for your needs. With ONE Farm, you can browse through a variety of animals including livestock, pets, and exotic animals.
 Problem
 Buying and selling animals can be a time-consuming and complicated process. Traditional methods often involve visiting a physical market or contacting multiple sellers individually, which can be inconvenient for buyers and sellers alike. ONE Farm aims to simplify this process by providing a centralized platform where users can buy and sell animals online, from the comfort of their own homes.
